@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "夏の日、残像",
+  "base_artist": "amazarashi",
+  "createdAt": "2025-12-04T09:41:44.629676Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏の日、残像",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/01_夏の日、残像_ASIAN_KUNG-FU_GENERATION.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Natsu No Hi, Zanzo [夏の日、残像]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_Natsu_No_Hi,_Zanzo_[夏の日、残像]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏の日、残像",
+      "artist": "Asian Kung-Fu Generation",
+      "has_synced": true,
+      "path": "select/03_夏の日、残像_Asian_Kung-Fu_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夏の日, 残像",
+      "artist": "Asian Kung-Fu Generation",
+      "has_synced": true,
+      "path": "select/04_夏の日,_残像_Asian_Kung-Fu_Generation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏の日、残像",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_夏の日、残像_amazarashi.txt"
+    }
+  ]
+}
